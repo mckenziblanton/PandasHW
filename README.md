@@ -1,2 +1,0 @@
-# PandasHW
-Heroes of Pymoli
